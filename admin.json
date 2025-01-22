@@ -1,0 +1,57 @@
+[
+    {
+        "city": "Newcastle",
+        "first_name": "Cathy",
+        "full_admin_rights": false,
+        "last_name": "Newman",
+        "password": "2442",
+        "postcode": "NE12 6TZ",
+        "street_name": "Mars Street",
+        "street_number": "47",
+        "user_name": "id3313"
+    },
+    {
+        "city": "London",
+        "first_name": "John",
+        "full_admin_rights": false,
+        "last_name": "Smith",
+        "password": "3845",
+        "postcode": "SW1A 1AA",
+        "street_name": "Downing Street",
+        "street_number": "10",
+        "user_name": "id3242"
+    },
+    {
+        "city": "Manchester",
+        "first_name": "David",
+        "full_admin_rights": false,
+        "last_name": "Williams",
+        "password": "2482",
+        "postcode": "M2 2CD",
+        "street_name": "Deansgate",
+        "street_number": "18",
+        "user_name": "id3242"
+    },
+    {
+        "city": "Birmingham",
+        "first_name": "Jurgen",
+        "full_admin_rights": true,
+        "last_name": "Klopp",
+        "password": "0043",
+        "postcode": "B1 1AB",
+        "street_name": "Broad Street",
+        "street_number": "25",
+        "user_name": "id5843"
+    },
+    {
+        "city": "Birmingham",
+        "first_name": "Aderinsola",
+        "full_admin_rights": true,
+        "last_name": "Yakubu",
+        "password": "1441",
+        "postcode": "B17 6NE",
+        "street_name": "Norfolk Road",
+        "street_number": "97",
+        "user_name": "id1188"
+    }
+]
